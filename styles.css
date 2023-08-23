@@ -1,1 +1,31 @@
 /* your code */
+table {
+border-collapse : collapse;
+	width: 100%;
+	border: 1px solid lightgrey;
+	border-radius: 10px;
+}
+
+tr{
+/* 	border: 1px solid; */
+}
+
+td{
+		padding: 10px;
+}
+
+th{
+	text-align: left;
+	padding: 10px
+}
+
+.li{
+	background-color: darkblue;
+	color: white;
+}
+.lo{
+	background-color: white;
+}
+.to{
+	background-color: lightgrey;
+}
